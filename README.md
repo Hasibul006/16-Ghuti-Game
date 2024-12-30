@@ -41,3 +41,20 @@ A traditional board game of rural Bangladesh developed using python
 
 10. **Splash Screen Added**  
     A visually appealing splash screen has been added for a better user experience at startup.
+
+## Screanshots
+
+### Splash Screen
+<img src="Screanshots/splash_screen.jpg" alt="Alt Text" width="300" height="500">
+
+### Main Menu
+<img src="Screanshots/main_manu.jpg" alt="Alt Text" width="300" height="500">
+
+### Difficulty level page
+<img src="Screanshots/difficulty_level.jpg" alt="Alt Text" width="300" height="500">
+
+### Board
+<img src="Screanshots/board.jpg" alt="Alt Text" width="300" height="500">
+
+### Result page
+<img src="Screanshots/result_page.jpg" alt="Alt Text" width="300" height="500">
